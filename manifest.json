@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "generated": "2026-09-13T08:06:22Z",
+  "generated": "2026-09-13T13:47:41Z",
   "manifest_sig": null,
   "products": {
     "CFS-ECIG-SUITE-PCAPP": {
-      "latest": "1.3.0",
+      "latest": "1.4.0",
       "url": "https://github.com/celfras-dev/cfs-ecig-suite-pcapp",
       "notes": "",
       "releases": [
         {
-          "version": "1.3.0",
-          "file": "CFS-ECIG-SUITE_Setup_V1.3.0.exe",
-          "url": "https://github.com/celfras-dev/cfs-ecig-suite-pcapp/releases/download/v1.3.0/CFS-ECIG-SUITE_Setup_V1.3.0.exe",
-          "sha256": "01925402292934c7fe3ab3acdd04de04fd6a24d651d4bd534a4fffd47705a014",
-          "size": 51690517
+          "version": "1.4.0",
+          "file": "CFS-ECIG-SUITE_Setup_V1.4.0.exe",
+          "url": "https://github.com/celfras-dev/cfs-ecig-suite-pcapp/releases/download/v1.4.0/CFS-ECIG-SUITE_Setup_V1.4.0.exe",
+          "sha256": "861d5de014e3b5e20700ee216e465b441e3325d0dd500d5f956d4f48c112ef90",
+          "size": 71229282
         }
       ]
     }
